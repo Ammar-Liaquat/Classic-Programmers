@@ -1,4 +1,4 @@
 # Classic-Programmers
 This is my first repository
 <br>
-Author -- Ammar
+Author -- Ammar Liaquat
